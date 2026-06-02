@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Harshitha</h1>
+<h1 align="center"> Harshitha Vummanaboina</h1>
 
 <p align="center">
   <b>Computer Science Engineering Student</b>
