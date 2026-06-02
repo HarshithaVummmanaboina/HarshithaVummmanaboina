@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Harshitha
 
-<!--
-**HarshithaVummmanaboina/HarshithaVummmanaboina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student
 
-Here are some ideas to get you started:
+- Java Developer
+- Learning DSA
+- Interested in Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Java
+- HTML
+- CSS
+- JavaScript
+- SQL
+
+## Contact
+
+Email: vummanaboinaharshitha@gmail.com
